@@ -1,2 +1,4 @@
-# Hekili
-魔兽世界wow国服wlk插件. 基于新手盒子上下载的hekili(v3.4.4-1.1.2 7月9日下载)修改而来
+# hekili
+This priority helper supports all DPS and Tank specializations in World of Warcraft **Retail**.
+
+[Latest Release](https://github.com/Hekili/hekili/releases/latest)
